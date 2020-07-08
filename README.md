@@ -1,0 +1,1 @@
+wotlk-addon-manager
