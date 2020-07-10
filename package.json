@@ -24,7 +24,7 @@
         {
           "name": "@electron-forge/maker-squirrel",
           "config": {
-            "name": "wotlk_addon_manager"
+            "name": "electron-react-typescript-boilerplate"
           }
         },
         {
