@@ -1,6 +1,6 @@
 {
-  "name": "wotlk-addon-manager",
-  "productName": "wotlk-addon-manager",
+  "name": "electron-react-typescript-boilerplate",
+  "productName": "electron-react-typescript-boilerplate",
   "version": "1.0.0",
   "description": "My Electron application description",
   "main": ".webpack/main",
@@ -13,8 +13,8 @@
   },
   "keywords": [],
   "author": {
-    "name": "Julian",
-    "email": "julian@humplstoetter.com"
+    "name": "halykon",
+    "email": "sicstar21@gmail.com"
   },
   "license": "MIT",
   "config": {
