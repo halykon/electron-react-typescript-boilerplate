@@ -73,7 +73,7 @@
     "@typescript-eslint/eslint-plugin": "2",
     "@typescript-eslint/parser": "^2.18.0",
     "css-loader": "^3.0.0",
-    "electron": "9.1.0",
+    "electron": "13.6.6",
     "eslint": "7",
     "eslint-config-standard-with-typescript": "^18.0.2",
     "eslint-plugin-import": "2",
